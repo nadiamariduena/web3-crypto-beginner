@@ -1,4 +1,4 @@
-## Beginner Exercises
+## Beginner Exercises 🍭
 
 <br>
 
@@ -6,7 +6,7 @@
 
 - lesson 2 - my-first-smart-contract
 
-##### (private) [smartcontracts-lesson1-ethereum-solidity](https://github.com/nadiamariduena/smartcontracts-lesson1-ethereum-solidity)
+#### (private) [smartcontracts-lesson1-ethereum-solidity](https://github.com/nadiamariduena/smartcontracts-lesson1-ethereum-solidity)
 
 <br>
 <br>
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-### Build OpenSea Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb
+### Build OpenSea Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb 🍨
 
 > Big thanks to CleverProgrammers , for sharing this Great tutorial on how to set up an OpenSea Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb | Tailwind | Alchemy
 
@@ -54,7 +54,11 @@
 <br>
 <br>
 
-#### This is a basic app, that has no real functionality other than: fetching the data from opensea ✋
+### Fake BoredApe... 🌴
+
+##### This is a basic app, that has no real functionality other than: fetching the data from opensea ✋
+
+<br>
 
 > In this tutorial you will get familiar with creating **NFT's in testing mode** (using specific networks for that matter in **metamask & thirdweb** ), you will also learn hot to create **fake ethereum** (with faucets.chain ) to be used in your tests apps.
 
