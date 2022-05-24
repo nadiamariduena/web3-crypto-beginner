@@ -54,6 +54,8 @@
 
 <br>
 
+#### Log in to the app with your metamask (I am using Rinkeby test Network)
+
 [<img src="./img/preview-0.gif"/>](https://github.com/nadiamariduena/opensea-marketplace)
 
 <br>
