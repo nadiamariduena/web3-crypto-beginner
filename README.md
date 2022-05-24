@@ -6,7 +6,17 @@
 
 - lesson 2 - my-first-smart-contract
 
-#### (private) [smartcontracts-lesson1-ethereum-solidity](https://github.com/nadiamariduena/smartcontracts-lesson1-ethereum-solidity)
+### 🚧 (private) [smartcontracts-lesson1-ethereum-solidity](https://github.com/nadiamariduena/smartcontracts-lesson1-ethereum-solidity)
+
+
+<br>
+<br>
+
+---
+
+### 🚧 In progress | [amazon-clone-blockchain](https://github.com/nadiamariduena/amazon-clone-blockchain)
+
+>Amazon Web 3.0 Blockchain App with Solidity | Moralis | Next.js | Ethers.js | Tailwind CSS
 
 <br>
 <br>
