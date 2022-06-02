@@ -66,7 +66,7 @@
 <br>
 <br>
 
-### Fake BoredApe... 🌴
+### [Fake BoredApe...](https://github.com/nadiamariduena/crypto-punk-clone-react-web3)  🌴
 
 ##### This is a basic app, that has no real functionality other than: fetching the data from opensea ✋
 
