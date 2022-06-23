@@ -6,16 +6,29 @@
 
 - lesson 2 - my-first-smart-contract
 
+<br>
+
+---
+
+ 
+<br>
+
 ### 🚧 (private) [smartcontracts-lesson1-ethereum-solidity](https://github.com/nadiamariduena/smartcontracts-lesson1-ethereum-solidity)
 
 
 <br>
+
+---
+
+ 
 <br>
 
 ### 🚧 In progress | 👾 nft-marketplace Web 3.0 App with Next.js 👾
 
 > Big thanks to   [JS Mastery](https://www.jsmastery.pro/) , for sharing this Great tutorial on how to set up a **NFT-MARKETPLACE DApp** with Next.js | hardhat | openzeppelin | Tailwind | Axios | ipfs-htt-client | web3modal ...
 
+
+<br>
  
  [<img src="./nft-marketplace.gif"/>]( )
 
