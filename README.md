@@ -25,7 +25,7 @@
 
 ### 🚧 In progress | 👾 nft-marketplace Web 3.0 App with Next.js 👾
 
-> Big thanks to   [JS Mastery](https://www.jsmastery.pro/) , for sharing this Great tutorial on how to set up a **NFT-MARKETPLACE DApp** with Next.js | hardhat | openzeppelin | Tailwind | Axios | ipfs-htt-client | web3modal ...
+> Big thanks to   [JS Mastery](https://www.jsmastery.pro/) , for sharing this Great tutorial on how to set up a NFT-MARKETPLACE **DApp** with Next.js | hardhat | openzeppelin | Tailwind | Axios | ipfs-htt-client | web3modal ...
 
 
 <br>
