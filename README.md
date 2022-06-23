@@ -14,7 +14,7 @@
 
 ---
 
-### 🚧 In progress | [amazon-clone-blockchain](https://github.com/nadiamariduena/amazon-clone-blockchain)
+### 🚧 In progress | [amazon-clone-blockchain](https://github.com/nadiamariduena/amazon-clone-blockchain) ✋
 
 >Amazon Web 3.0 Blockchain App with Solidity | Moralis | Next.js | Ethers.js | Tailwind CSS
 
